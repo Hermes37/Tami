@@ -11,7 +11,7 @@ import org.jsoup.nodes.Element
 import kotlin.random.Random
 
 class TeluguFlixProvider : MainAPI() { // all providers must be an instance of MainAPI
-    override var mainUrl = "https://teluguflix.site"
+    override var mainUrl = "https://ww5.teluguflix.biz/"
     override var name = "TeluguFlix"
     override val hasMainPage = true
     override var lang = "te"
